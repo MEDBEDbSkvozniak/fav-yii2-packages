@@ -2,6 +2,12 @@
     "name": "fedorov-aleksey/yii2-packages",
     "version": "v1.0.0",
     "description": "A short description of what your package does",
+    "authors": [
+        {
+            "name": "Fedorov Aleksey",
+            "email": "fav@equifax.ru"
+        }
+    ],
     "autoload": {
         "psr-4" : {
             "fav\\packages\\" : ""
