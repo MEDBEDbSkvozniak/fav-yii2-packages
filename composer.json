@@ -1,6 +1,6 @@
 {
     "name": "fedorov-aleksey/yii2-packages",
-    "version": "1.0.0",
+    "version": "v1.0.0-r",
     "stability": "stable",
     "description": "A short description of what your package does",
     "autoload": {
