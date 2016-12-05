@@ -3,6 +3,9 @@
     "type": "library",
     "version": "v1.0.0",
     "description": "A short description of what your package does",
+    "requires":{
+        "fedorov-aleksey/active-input": "*"
+    },
     "autoload": {
         "psr-4" : {
             "fav\\packages\\" : ""
