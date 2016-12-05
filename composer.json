@@ -1,5 +1,6 @@
 {
     "name": "fedorov-aleksey/yii2-packages",
+    "type": "library",
     "version": "v1.0.0",
     "description": "A short description of what your package does",
     "autoload": {
