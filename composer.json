@@ -1,6 +1,6 @@
 {
     "name": "fedorov-aleksey/yii2-packages",
-    "version": "v2.0.0",
+    "version": "v2.0.2",
     "description": "A short description of what your package does",
     "requires":{
         "fedorov-aleksey/active-input": "*"
